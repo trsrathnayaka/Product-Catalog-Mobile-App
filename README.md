@@ -34,3 +34,13 @@ Ensure the following are installed on your system:
 - IDE (Android Studio or VS Code)
 - Platform SDKs (Android and/or iOS)
 - Environment variables configured for Flutter
+
+## Screenshots
+
+![Screenshot (371)](https://github.com/user-attachments/assets/8083b012-0447-4f40-b2e4-3a23ba15d0fb)
+
+![Screenshot (372)](https://github.com/user-attachments/assets/97828f60-24db-4cdb-8b59-bfcae0690b5a)
+
+Happy coding!
+
+ [Watch More Tutorials](https://www.youtube.com/@Sl_Code_Academy)
