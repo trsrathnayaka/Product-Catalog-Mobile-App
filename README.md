@@ -1,2 +1,36 @@
-# Product-Catalog-Mobile-App
-Flutter Developer Intern - Assignment 🚀
+# Product Catalog
+
+A new Flutter project for a product catalog app, featuring a clean and scalable code structure, dynamic UI, and API integration to display products with detailed information.
+
+## Table of Contents
+- [Getting Started](#getting-started)
+- [Features](#features)
+- [Installation](#installation)
+- [Directory Structure](#directory-structure)
+- [Running the Project](#running-the-project)
+- [Common Issues & Solutions](#common-issues--solutions)
+- [Useful Resources](#useful-resources)
+
+## Getting Started
+
+This project serves as a starting point for building a Flutter-based product catalog application.
+
+## Features
+
+- Home screen with horizontally scrollable product categories
+- Grid view of products
+- Detailed product page
+- API integration for fetching products and product details
+- Clean and maintainable code structure
+- Scalable UI with error handling
+- Loading states and error messages
+- Navigation between screens
+
+## Installation
+
+### Prerequisites
+Ensure the following are installed on your system:
+- Flutter SDK
+- IDE (Android Studio or VS Code)
+- Platform SDKs (Android and/or iOS)
+- Environment variables configured for Flutter
